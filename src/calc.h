@@ -11,6 +11,7 @@
 #define __CALC_H_
 
 #include <vector>
+#include <memory>
 
 class Calc
 {
