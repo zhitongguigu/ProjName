@@ -40,7 +40,7 @@ public:
     //
     // D-tor
     //
-    ~Calculator();
+    ~Calc();
 
 protected:
     
